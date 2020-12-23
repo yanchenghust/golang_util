@@ -17,6 +17,6 @@ func LimitNGoroutinue(n int) {
 	}
 }
 
-func Do(v string	)  {
+func Do(v string) {
 	fmt.Println(v)
 }
